@@ -51,5 +51,7 @@ Crowdfunding has revolutionized the way of raising funds for not only start-ups 
 
 ### Approach:
 Online crowdfunding enables people to raise funds for their project. People who are interested in a project can donate by making an online transaction. The existing method of online crowdfunding has a major drawback. It does not allow contributors to have control over the money they have contributed. Since in the existing method the project manager has all the control over the money contributed, he can very easily perform malicious activities. We want to address this problem faced by the existing online crowdfunding platforms by using Ethereum network and smart contract. Using smart contracts we will implement a solution where the campaign manager will be able to send money to any address only after a consensus from the investors is reached. 
+
 <img width="427" alt="Screen Shot 2021-09-21 at 3 06 53 PM" src="https://user-images.githubusercontent.com/67829172/134254203-b1fb0154-aa85-46f9-b8c7-fcf1649070bc.png">
+
 Further, it can be tracked on the blockchain where the money is going.
