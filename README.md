@@ -37,6 +37,18 @@ https://www.kaggle.com/miklgr500/jigsaw-multilingual-swear-profanity
 
 https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset
 
-## idea5: Deepfake detector - Machine learning proj
+## Idea 3: Preventing Fraud in Fundraisers with Blockchain and Smart Contracts
+### Intro to problem:
+Every year billions of dollars are lost in badly planned and executed startups that look perfectly legitimate at the first glance
 
-## idea6: Detecting breast cancer - Machine learning proj
+* iBackPack: At first, iBackPack seemed like the perfect Indiegogo investment. It had diagrams, happy videos with lots of millennials, and an interesting concept: An urban backpack that could store, charge and help provide hotspots for iPhones on the go, with plenty of room to spare. It was also vastly successful, raising more than $720,000 in 2015 alone, plus more from Kickstarter. Then iBackPack vanished. YouTube videos were taken down. Communication ceased almost entirely, and updates stopped completely with no word on if the backpacks would ever exist.
+
+* CST-01: Central Standard Timing raised more than $1 million in pledges from 7,658 backers on Kickstarter, for what it deemed “the world’s thinnest watch.” The CST-01 was funded in 2013. Delay after delay plagued the e-ink watch as the company struggled to find the sort of technology it needed to actually create the watch.
+
+We want to create a platform where the probability of investors losing money is drastically decreased, the uncertainty of the project is reduced, and the chances of fraud are mitigated.
+
+
+### Abstract:
+Crowdfunding has revolutionized the way of raising funds for not only start-ups but for all traditional or existing businesses. Crowdfunding made it easy for fundraisers to raise funds as they don’t have to knock on doors of banks and financers and get the desired amount in return of interest or offering equity or even through donation, or reward. Blockchain, on the hand, is decentralizing the system of records and control which makes crowdfunding more transparent and secure. A smart contract is similar to a contract in the physical world, but it is digital and represented by a tiny computer program stored in a blockchain. These smart contracts can be used to implement logic. We want to propose a method that uses smart contract to manage all the activities performed in a crowdfunding campaign.
+
+### Approach:
