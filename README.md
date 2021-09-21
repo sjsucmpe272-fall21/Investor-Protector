@@ -2,11 +2,12 @@
 
 ## idea1: Teenager Anti-addiction/safely watching system (Xialu)
 ### Intro to problem:
-With the development of electronic technology, there are an increasing number of teenagers and children who use electronic product more frequently. Some of them spend su much time on playing video games, watching Youtuber video, TiK-Tok, NetFlix, that is not only a waste of time but also harmful to their health.
+With the development of electronic technology, there are an increasing number of teenagers and children who use electronic product more frequently. Some of them spend so much time on playing video games, watching Youtuber video, TiK-Tok, NetFlix, that is not only a waste of time but also harmful to their health.
 ### Abstract:
-We can develop an Anti-addiction/safely watching system which askes players to turn on the camera for an identity recognition. The system will be able to identify the player's age range. For example, if the system decide the player is under 16, it will only let the player to play video games for one hour. Then a warning message will show up. And the connection to the game will be lost. 
+We can develop an Anti-addiction/safely watching system which askes players to turn on the camera for an identity recognition. The system will be able to identify the player's age range. For example, if the system decide the player is under 16, it will only let the player to play video games/watching video for one hour. Then a warning message will show up. And the connection to the game will be lost. 
 ### Dataset links:
 https://www.kaggle.com/frabbisw/facial-age
+https://susanqq.github.io/UTKFace/
 
 ## idea2: Playdate Setup App (Xialu)
 ### Intro to problem:
