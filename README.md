@@ -24,3 +24,13 @@ It is important that credit card companies are able to recognize fraudulent cred
  The aim of this R project is to build a classifier that can detect credit card fraudulent transactions. We will use a variety of machine learning algorithms like Decision Trees, Logistic Regression, Artificial Neural Networks and finally, Gradient Boosting Classifier that will be able to discern fraudulent from non-fraudulent one.
 ### Dataset links:
 https://drive.google.com/file/d/1CTAlmlREFRaEN3NoHHitewpqAtWS5cVQ/view 
+
+
+## idea4: Profanity filter in chat (Anuhya)
+### Intro to problem:
+Youth today are subjected to more hate speech online than ever. In the world of chat, any person has the power to abuse and bully online and the number of these situations have been increasing rapidly everyday.
+### Abstract:
+To stop this, we can implement a profanity filter as a plugin to chat that flags and conceals the obscene and violent content.
+### Dataset links:
+https://www.kaggle.com/miklgr500/jigsaw-multilingual-swear-profanity
+https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset
