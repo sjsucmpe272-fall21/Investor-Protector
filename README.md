@@ -15,3 +15,11 @@ Because of the pandamic of Covid-19 and the shut-down of many areas in the Unite
 We can develop a Playdate Setup App which enable parents to share their wish to set-up playdats among children. They can upload their child's profile on the app. And they will be able to find potiential matched nearby. Children's can be matched based on their different needs. For example a shy kid might need to play with an outgoing friend. And children who speak the same language would want to play together. Or if parents want to find a friend that can speak a foreign language for their kid, they might also find a match.  
 ### Dataset links:
 No available real data. 
+
+
+## idea3: Credit card fraud detection (Jayanth)
+### Intro to problem:
+It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.### ### ### **Abstract:**
+ The aim of this R project is to build a classifier that can detect credit card fraudulent transactions. We will use a variety of machine learning algorithms like Decision Trees, Logistic Regression, Artificial Neural Networks and finally, Gradient Boosting Classifier that will be able to discern fraudulent from non-fraudulent one.
+### Dataset links:
+https://drive.google.com/file/d/1CTAlmlREFRaEN3NoHHitewpqAtWS5cVQ/view 
