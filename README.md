@@ -33,4 +33,5 @@ Youth today are subjected to more hate speech online than ever. In the world of 
 To stop this, we can implement a profanity filter as a plugin to chat that flags and conceals the obscene and violent content.
 ### Dataset links:
 https://www.kaggle.com/miklgr500/jigsaw-multilingual-swear-profanity
+
 https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset
