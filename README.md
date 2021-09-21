@@ -38,4 +38,4 @@ https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset
 
 ## idea5: Deepfake detector - Machine learning proj
 
-## idea7: Detecting breast cancer - Machine learning proj
+## idea6: Detecting breast cancer - Machine learning proj
