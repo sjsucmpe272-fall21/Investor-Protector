@@ -1,6 +1,6 @@
 # Team-Project-10
 
-## Idea 1: Teenager Anti-addiction/safely watching system (Xialu)
+## Idea 1: Teenager Anti-addiction/safely watching system 
 ### Intro to problem:
 With the development of electronic technology, there are an increasing number of teenagers and children who use electronic product more frequently. Some of them spend so much time on playing video games, watching Youtuber video, TiK-Tok, NetFlix, that is not only a waste of time but also harmful to their health.
 ### Abstract:
