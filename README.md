@@ -43,8 +43,6 @@ Every year billions of dollars are lost in badly planned and executed startups t
 
 * iBackPack: At first, iBackPack seemed like the perfect Indiegogo investment. It had diagrams, happy videos with lots of millennials, and an interesting concept: An urban backpack that could store, charge and help provide hotspots for iPhones on the go, with plenty of room to spare. It was also vastly successful, raising more than $720,000 in 2015 alone, plus more from Kickstarter. Then iBackPack vanished. YouTube videos were taken down. Communication ceased almost entirely, and updates stopped completely with no word on if the backpacks would ever exist.
 
-* CST-01: Central Standard Timing raised more than $1 million in pledges from 7,658 backers on Kickstarter, for what it deemed “the world’s thinnest watch.” The CST-01 was funded in 2013. Delay after delay plagued the e-ink watch as the company struggled to find the sort of technology it needed to actually create the watch.
-
 We want to create a platform where the probability of investors losing money is drastically decreased, the uncertainty of the project is reduced, and the chances of fraud are mitigated.
 
 
