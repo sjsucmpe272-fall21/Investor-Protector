@@ -62,3 +62,7 @@ Online crowdfunding enables people to raise funds for their project. People who 
 After a certain percentage of contributors approve the transaction, money is sent to vendor.
 
 Further, we can track on the blockchain where exactly the money is going.
+
+### Persona:
+1. Investor / Contributor
+2. Founder / Campaign Manager
