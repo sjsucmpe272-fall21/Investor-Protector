@@ -11,6 +11,7 @@ In our project, we intend to build a model to recognize people's age based on re
 2. K-Means Clustering
 3. Linear Regression
 4. Random Forest
+
 We are going to decide which one we are going to use based on their accuracy. 
 Camera on personal PC will be used to capture user's image. And personal account will be established once the user's age has been identified.If the user is grouped into underaged, a tag will appear on his/her personal page and following tasks can be excuted.
 ### Persona:
