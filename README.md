@@ -7,10 +7,10 @@ With the development of electronic technology, there are an increasing number of
 We can develop an Anti-addiction/safely watching system which askes players to turn on the camera for an identity recognition. The system will be able to identify the player's age range. For example, if the system decide the player is under 16, it will only let the player to play video games/watching video for one hour. Then a warning message will show up. And the connection to the game or video will be lost. It can also be used to identify if the user is watching inapproprate content based on age recognition and tags on the content. 
 ### Approach:
 In our project, we intend to build a model to recognize people's age based on real facial data. We plan to use machine learning technology to process and analyze our existing dataset. We planed to compare several machine learning models in order to find an optimal solution, including: 
-1.K-Nearest Neighbors,KNN 
-2.K-Means Clustering
-3.Linear Regression
-4.Random Forest
+1. K-Nearest Neighbors,KNN 
+2. K-Means Clustering
+3. Linear Regression
+4. Random Forest
 We are going to decide which one we are going to use based on their accuracy. 
 Camera on personal PC will be used to capture user's image. And personal account will be established once the user's age has been identified.If the user is grouped into underaged, a tag will appear on his/her personal page and following tasks can be excuted.
 ### Persona:
