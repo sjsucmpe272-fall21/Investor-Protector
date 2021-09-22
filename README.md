@@ -1,4 +1,5 @@
-# Team-Project-10
+# Team-Project-10 
+[Anuhya Gankidi, Anujot Singh, Jayanth Reddy Sheri, Xialu Zou]
 
 ## Idea 1: Teenager Anti-addiction/safely watching system 
 ### Intro to problem:
@@ -27,6 +28,10 @@ https://susanqq.github.io/UTKFace/
 Because of the pandamic of Covid-19 and the shut-down of many areas in the United States. Many parents are tend to keep their 1-4 yeas old children at home instead of sending them to daycares and preschools. This caused a lack of social interaction among the children.
 ### Abstract:
 We can develop a Playdate Setup App which enable parents to share their wish to set-up playdats among children. They can upload their child's profile on the app. And they will be able to find potiential matched nearby. Children's can be matched based on their different needs. For example a shy kid might need to play with an outgoing friend. And children who speak the same language would want to play together. Or if parents want to find a friend that can speak a foreign language for their kid, they might also find a match.  
+### Approach:
+In our project, we intend to build a web based application where Mommies and Daddies can help build their child’s social circle and avail awesome discounts and deals! PlayDate is an interactive platform. Users can share stories, create memories and expand their child’s world, all through the ease of a single page. We planned to build the application UI using React JS and Java Spring-boot for server side implementation and Postgres for DB.
+### Persona:
+
 <!-- ## idea3: Credit card fraud detection (Jayanth)
 ### Intro to problem:
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
