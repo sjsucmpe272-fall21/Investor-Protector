@@ -1,4 +1,4 @@
-# Team-Project-10  
+# Team-Project-10  - Investor-Protector
 [Anuhya Gankidi, Anujot Singh, Jayanth Reddy Sheri, Xialu Zou]
 
 ## Idea: Preventing Fraud in Fundraisers with Blockchain and Smart Contracts
