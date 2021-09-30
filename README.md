@@ -1,29 +1,7 @@
-# Team-Project-10 
+# Team-Project-10  
 [Anuhya Gankidi, Anujot Singh, Jayanth Reddy Sheri, Xialu Zou]
 
-## Idea 1: Teenager Anti-addiction/safely watching system 
-### Intro to problem:
-With the development of electronic technology, there are an increasing number of teenagers and children who use electronic product more frequently. Some of them spend so much time on playing video games, watching Youtuber video, TiK-Tok, NetFlix, that is not only a waste of time but also harmful to their health.
-### Abstract:
-We can develop an Anti-addiction/safely watching system which askes players to turn on the camera for an identity recognition. The system will be able to identify the player's age range. For example, if the system decide the player is under 16, it will only let the player to play video games/watching video for one hour. Then a warning message will show up. And the connection to the game or video will be lost. It can also be used to identify if the user is watching inapproprate content based on age recognition and tags on the content. 
-### Approach:
-In our project, we intend to build a model to recognize people's age based on real facial data. We plan to use machine learning technology to process and analyze our existing dataset. We planed to compare several machine learning models in order to find an optimal solution, including: 
-1. K-Nearest Neighbors,KNN 
-2. K-Means Clustering
-3. Linear Regression
-4. Random Forest
-
-We are going to decide which one we are going to use based on their accuracy. 
-Camera on personal PC will be used to capture user's image. And personal account will be established once the user's age has been identified.If the user is grouped into underaged, a tag will appear on his/her personal page and following tasks can be excuted.
-### Persona:
-1. Teenagers who spend too much time on video games.
-2. Perants who can not supervise their children all day long.
-3. Online Video Platforrms or game maker who do not want to show inapproprate content to underage audience.
-### Dataset links:
-https://www.kaggle.com/frabbisw/facial-age
-https://susanqq.github.io/UTKFace/
-
-## Idea 2: Preventing Fraud in Fundraisers with Blockchain and Smart Contracts
+## Idea: Preventing Fraud in Fundraisers with Blockchain and Smart Contracts
 ### Intro to problem:
 Every year billions of dollars are lost in badly planned and executed startups that look perfectly legitimate at the first glance
 
@@ -47,16 +25,6 @@ Further, we can track on the blockchain where exactly the money is going.
 1. Investor / Contributor
 2. Founder / Campaign Manager
 
-## Idea 3: Playdate Setup App 
-### Intro to problem:
-Because of the pandamic of Covid-19 and the shut-down of many areas in the United States. Many parents are tend to keep their 1-4 yeas old children at home instead of sending them to daycares and preschools. This caused a lack of social interaction among the children.
-### Abstract:
-We can develop a Playdate Setup App which enable parents to share their wish to set-up playdates among children. They can upload their child's profile on the app. And they will be able to find potiential matched nearby. Children's can be matched based on their different needs. For example a shy kid might need to play with an outgoing friend. And children who speak the same language would want to play together. Or if parents want to find a friend that can speak a foreign language for their kid, they might also find a match.  
-### Approach:
-In our project, we intend to build a web based application where Mommies and Daddies can help build their child’s social circle and avail awesome discounts and deals! PlayDate is an interactive platform. Users can share stories, create memories and expand their child’s world, all through the ease of a single page. We planned to build the application UI using React JS and Java Spring-boot for server side implementation and Postgres for DB.
-### Persona:
-1. Parents of kids ages 1-4. 
-
 <!-- ## idea3: Credit card fraud detection (Jayanth)
 ### Intro to problem:
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
@@ -72,4 +40,36 @@ Youth today are subjected to more hate speech online than ever. In the world of 
 To stop this, we can implement a profanity filter as a plugin to chat that flags and conceals the obscene and violent content.
 ### Dataset links:
 https://www.kaggle.com/miklgr500/jigsaw-multilingual-swear-profanity
-https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset -->
+https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset 
+## Idea 3: Playdate Setup App 
+### Intro to problem:
+Because of the pandamic of Covid-19 and the shut-down of many areas in the United States. Many parents are tend to keep their 1-4 yeas old children at home instead of sending them to daycares and preschools. This caused a lack of social interaction among the children.
+### Abstract:
+We can develop a Playdate Setup App which enable parents to share their wish to set-up playdates among children. They can upload their child's profile on the app. And they will be able to find potiential matched nearby. Children's can be matched based on their different needs. For example a shy kid might need to play with an outgoing friend. And children who speak the same language would want to play together. Or if parents want to find a friend that can speak a foreign language for their kid, they might also find a match.  
+### Approach:
+In our project, we intend to build a web based application where Mommies and Daddies can help build their child’s social circle and avail awesome discounts and deals! PlayDate is an interactive platform. Users can share stories, create memories and expand their child’s world, all through the ease of a single page. We planned to build the application UI using React JS and Java Spring-boot for server side implementation and Postgres for DB.
+### Persona:
+1. Parents of kids ages 1-4. -->
+<!--
+## Idea 1: Teenager Anti-addiction/safely watching system 
+### Intro to problem:
+With the development of electronic technology, there are an increasing number of teenagers and children who use electronic product more frequently. Some of them spend so much time on playing video games, watching Youtuber video, TiK-Tok, NetFlix, that is not only a waste of time but also harmful to their health.
+### Abstract:
+We can develop an Anti-addiction/safely watching system which askes players to turn on the camera for an identity recognition. The system will be able to identify the player's age range. For example, if the system decide the player is under 16, it will only let the player to play video games/watching video for one hour. Then a warning message will show up. And the connection to the game or video will be lost. It can also be used to identify if the user is watching inapproprate content based on age recognition and tags on the content. 
+### Approach:
+In our project, we intend to build a model to recognize people's age based on real facial data. We plan to use machine learning technology to process and analyze our existing dataset. We planed to compare several machine learning models in order to find an optimal solution, including: 
+1. K-Nearest Neighbors,KNN 
+2. K-Means Clustering
+3. Linear Regression
+4. Random Forest
+
+We are going to decide which one we are going to use based on their accuracy. 
+Camera on personal PC will be used to capture user's image. And personal account will be established once the user's age has been identified.If the user is grouped into underaged, a tag will appear on his/her personal page and following tasks can be excuted.
+### Persona:
+1. Teenagers who spend too much time on video games.
+2. Perants who can not supervise their children all day long.
+3. Online Video Platforrms or game maker who do not want to show inapproprate content to underage audience.
+### Dataset links:
+https://www.kaggle.com/frabbisw/facial-age
+https://susanqq.github.io/UTKFace/
+-->
