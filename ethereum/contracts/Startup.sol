@@ -1,5 +1,16 @@
 pragma solidity ^0.4.17;
 
+contract StartupFactory {
+    address[] public deployedStartups;
+    function createStartup(uint min) public {
+        address newStartup = new Startup(min, msg.sender);
+        deployedStartups.push(newStartup);
+    }
+    function getDeployedStartups() public view returns(address[]) {
+        return deployedStartups;
+    }
+}
+
 contract Startup {
     struct Request {
         string description;
@@ -21,8 +32,8 @@ contract Startup {
         _;
     }
     
-    function Startup(uint minimum) public {
-        manager = msg.sender;
+    function Startup(uint minimum, address creator) public {
+        manager = creator;
         minimumContribution = minimum;
     }
     
