@@ -35,4 +35,9 @@ describe('Startups', () => {
     assert.ok(factory.options.address);
     assert.ok(startup.options.address);
   });
+
+  it('marks caller as the startup manager', async () => {
+  	const manager = await startup.methods.manager().call();
+  	assert.equal(accounts[0], manager);
+  });
 });
