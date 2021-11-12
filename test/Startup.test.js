@@ -71,4 +71,32 @@ describe('Startups', () => {
     const request = await startup.methods.requests(0).call();
     assert.equal('Buy shoes', request.description);
   });
+
+  it('Contribute, create request, approve request, finalize request, target address received money', async() => {
+    let balinit = await web3.eth.getBalance(accounts[1]);
+    balinit = web3.utils.fromWei(balinit, 'ether');
+    balinit = parseFloat(balinit);
+    
+    await startup.methods.contribute().send({
+      from: accounts[0],
+      value: web3.utils.toWei('10', 'ether')
+    });
+    await startup.methods.createRequest(
+      'A', web3.utils.toWei('5', 'ether'), accounts[1]
+      ).send({
+        from: accounts[0], gas: '1000000'
+      });
+    await startup.methods.approveRequest(0).send({
+      from: accounts[0], gas: '1000000'
+    });
+    await startup.methods.finalizeRequest(0).send({
+      from: accounts[0], gas: '1000000'
+    });
+
+    let bal = await web3.eth.getBalance(accounts[1]);
+    bal = web3.utils.fromWei(bal, 'ether');
+    bal = parseFloat(bal);
+
+    assert(bal > balinit);
+  });
 });
