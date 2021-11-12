@@ -1,4 +1,4 @@
-const assert = require('assert')
+const assert = require('assert');
 const ganache = require('ganache-cli');
 const Web3 = require('web3');
 const web3 = new Web3(ganache.provider());
@@ -12,18 +12,27 @@ let startupAddress;
 let startup;
 
 beforeEach(async () => {
-	accounts = await web3.eth.getAccounts();
-	factory = await new web3.eth.Contract(JSON.parse(compiledFactory.interface))
-	.deploy({data: compiledFactory.bytecode}).send({from: accounts[0], gas: '1000000'})
+  accounts = await web3.eth.getAccounts();
 
-	await factory.methods.createStartup('100').send({
-		from: accounts[0], 
-		gas: '1000000'
-	});
+  factory = await new web3.eth.Contract(JSON.parse(compiledFactory.interface))
+    .deploy({ data: compiledFactory.bytecode })
+    .send({ from: accounts[0], gas: '1000000' });
 
-	[startupAddress] = await factory.methods.getDeployedStartups().call();
-	startup = await new web3.eth.Contract(
-		JSON.parse(compiledStartup.interface),
-		startupAddress
-	);
-})
+  await factory.methods.createStartup('100').send({
+    from: accounts[0],
+    gas: '1000000'
+  });
+
+  [startupAddress] = await factory.methods.getDeployedStartups().call();
+  startup = await new web3.eth.Contract(
+    JSON.parse(compiledStartup.interface),
+    startupAddress
+  );
+});
+
+describe('Startups', () => {
+  it('deploys a factory and a startup', () => {
+    assert.ok(factory.options.address);
+    assert.ok(startup.options.address);
+  });
+});
