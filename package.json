@@ -1,4 +1,21 @@
 {
+  "name": "investor-protector",
+  "version": "1.0.0",
+  "description": "[Anuhya Gankidi, Anujot Singh, Jayanth Reddy Sheri, Xialu Zou]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjsucmpe272-fall21/Investor-Protector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjsucmpe272-fall21/Investor-Protector/issues"
+  },
+  "homepage": "https://github.com/sjsucmpe272-fall21/Investor-Protector#readme",
   "dependencies": {
     "fs-extra": "^10.0.0",
     "ganache-cli": "^6.12.2",
