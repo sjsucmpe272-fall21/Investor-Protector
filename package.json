@@ -4,7 +4,7 @@
   "description": "[Anuhya Gankidi, Anujot Singh, Jayanth Reddy Sheri, Xialu Zou]",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -17,10 +17,6 @@
   },
   "homepage": "https://github.com/sjsucmpe272-fall21/Investor-Protector#readme",
   "dependencies": {
-    "fs-extra": "^5.0.0",
-    "ganache-cli": "^6.12.2",
-    "mocha": "^4.1.0",
-    "solc": "^0.4.19",
-    "web3": "^1.0.0-beta.26"
+    "mocha": "^7.0.0"
   }
 }
