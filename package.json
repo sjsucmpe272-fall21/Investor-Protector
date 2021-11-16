@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/sjsucmpe272-fall21/Investor-Protector#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs-extra": "^8.1.0",
+    "ganache-cli": "^6.7.0",
     "mocha": "^7.0.0"
   }
 }
