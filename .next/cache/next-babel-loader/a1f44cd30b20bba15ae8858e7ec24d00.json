@@ -1,0 +1,1 @@
+{"ast":null,"code":"import web3 from \"./web3\";\nimport Campaign from \"./build/Campaign.json\";\nexport default (function (campaign) {\n  return new web3.eth.Contract(Campaign.abi, campaign);\n});","map":null,"metadata":{},"sourceType":"module"}

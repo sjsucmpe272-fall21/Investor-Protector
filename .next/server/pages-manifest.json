@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/campaigns/[campaign]": "pages/campaigns/[campaign].js",
+  "/campaigns/[campaign]/requests": "pages/campaigns/[campaign]/requests.js",
+  "/campaigns/[campaign]/requests/new": "pages/campaigns/[campaign]/requests/new.js",
+  "/campaigns/new": "pages/campaigns/new.html",
+  "/": "pages/index.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
