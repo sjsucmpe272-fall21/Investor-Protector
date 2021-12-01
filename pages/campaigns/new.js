@@ -37,7 +37,7 @@ class CampaignNew extends Component {
 	render() {
 		return (
 			<Layout>
-				<h3>Create a Campaign</h3>
+				<h3>Create a Startup</h3>
 
 				<Form onSubmit={this.onSubmit} error={!!this.state.errorMessage}>
 					<Form.Field>
