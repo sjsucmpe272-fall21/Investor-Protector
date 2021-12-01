@@ -2472,7 +2472,7 @@ class _campaign_CampaignShow extends external_react_["Component"] {
       description: 'A request tries to withdraw money from the contract. Requests must be approved by approvers'
     }, {
       header: approversCount,
-      meta: 'Number of Approvers',
+      meta: 'Number of Contributors',
       description: 'Number of people who have already donated to this Startup'
     }, {
       header: web3["a" /* default */].utils.fromWei(balance, 'ether'),
