@@ -1,5 +1,5 @@
 # Team-Project-10  - Investor-Protector
-[Anuhya Gankidi, Anujot Singh, Jayanth Reddy Sheri, Xialu Zou]
+[Anuhya Gankidi(015897323), Anujot Singh(015963662), Jayanth Reddy Sheri(015242565), Xialu Zou(011353316)]
 
 ## Idea: Preventing Fraud in Fundraisers with Blockchain and Smart Contracts
 ### Intro to problem:
