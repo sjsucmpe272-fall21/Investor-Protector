@@ -76,4 +76,5 @@ https://susanqq.github.io/UTKFace/
 ### Deliverables
 APP Link: http://18.118.226.159:3000/
 To use the functions of this project Chrome metamask extension is required
+
 Source-code: https://github.com/sjsucmpe272-fall21/Investor-Protector
