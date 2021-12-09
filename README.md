@@ -11,10 +11,10 @@ We want to create a platform where the probability of investors losing money is 
 
 
 ### Abstract:
-Crowdfunding has revolutionized the way of raising funds for not only start-ups but for all traditional or existing businesses. Crowdfunding made it easy for fundraisers to raise funds as they don’t have to knock on doors of banks and financers and get the desired amount in return of interest or offering equity or even through donation, or reward. Blockchain, on the hand, is decentralizing the system of records and control which makes crowdfunding more transparent and secure. A smart contract is similar to a contract in the physical world, but it is digital and represented by a tiny computer program stored in a blockchain. These smart contracts can be used to implement logic. We want to propose a method that uses smart contract to manage all the activities performed in a crowdfunding campaign.
+Online fundraising has revolutionized the way of raising funds for not only start-ups but for all traditional or existing businesses. This made it easy for fundraisers to raise funds as they don’t have to knock on doors of banks and financers and get the desired amount in return of interest or offering equity or even through donation, or reward. Blockchain, on the hand, is decentralizing the system of records and control which makes funding more transparent and secure. A smart contract is similar to a contract in the physical world, but it is digital and represented by a tiny computer program stored in a blockchain. These smart contracts can be used to implement logic. We want to propose a method that uses smart contract to manage all the activities performed in a funding event.
 
 ### Approach:
-Online crowdfunding enables people to raise funds for their project. People who are interested in a project can donate by making an online transaction. The existing method of online crowdfunding has a major drawback. It does not allow contributors to have control over the money they have contributed. Since in the existing method the project manager has all the control over the money contributed, he can very easily perform malicious activities. We want to address this problem faced by the existing online crowdfunding platforms by using Ethereum network and smart contract. Using smart contracts we will implement a solution where the campaign manager will be able to send money to any address only after a consensus from the investors is reached. 
+Online funding enables people to raise funds for their project. People who are interested in a project can donate by making an online transaction. The existing method of online funding has a major drawback. It does not allow contributors to have control over the money they have contributed. Since in the existing method the project manager has all the control over the money contributed, he can very easily perform malicious activities. We want to address this problem faced by the existing online funding platforms by using Ethereum network and smart contract. Using smart contracts we will implement a solution where the star-up manager will be able to send money to any address only after a consensus from the investors is reached. 
 
 <img width="427" alt="Screen Shot 2021-09-21 at 3 09 25 PM" src="https://user-images.githubusercontent.com/67829172/134254427-ad2b1a95-96d2-4f83-bb60-b437e2e82e85.png"> 
 After a certain percentage of contributors approve the transaction, money is sent to vendor.
@@ -23,7 +23,7 @@ Further, we can track on the blockchain where exactly the money is going.
 
 ### Persona:
 1. Investor / Contributor
-2. Founder / Campaign Manager
+2. Founder / Project Manager
 
 <!-- ## idea3: Credit card fraud detection (Jayanth)
 ### Intro to problem:
