@@ -74,7 +74,7 @@ https://www.kaggle.com/frabbisw/facial-age
 https://susanqq.github.io/UTKFace/
 -->
 ### Deliverables
-APP Link: http://18.118.226.159:3000/
+APP Link: http://13.59.109.60:3000/
 To use the functions of this project Chrome metamask extension is required
 
 Source-code: https://github.com/sjsucmpe272-fall21/Investor-Protector
